@@ -1,1 +1,1 @@
-My first readme
+Updated project details in README.md
